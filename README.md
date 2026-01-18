@@ -23,4 +23,3 @@ Display Interface: An LCD or LED display is connected to the microcontroller to 
 Communication Setup: The ESP8266 Wi-Fi module is integrated to transmit the data to the cloud for real-time monitoring. 
 
 
-NOTE:TOOK REFERENCE FROM YOUTUBE.
